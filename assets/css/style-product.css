@@ -1,0 +1,9 @@
+.product-container-info {
+  height: 50px;
+}
+.product-container {
+  display: flex;
+}
+.app__container-1 {
+  margin-top: 100px;
+}
